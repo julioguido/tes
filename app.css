@@ -1,0 +1,8 @@
+@import '/home/rafael/dev/tes/app.css';
+@import "/home/rafael/dev/tes/app.css";
+@import url('/home/rafael/dev/tes/app.css');
+@import url("/home/rafael/dev/tes/app.css");
+label
+{
+    color: blue;
+}
