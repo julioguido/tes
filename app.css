@@ -5,12 +5,18 @@
 
 form {
     /* Centrar fomulario */
+
     margin: 0 auto;
     width: 400px;
     /* Para ver el bordel del formulario*/
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
+
+
+
+
+
 }
 form div + div {
     margin-top: 1em;
@@ -89,3 +95,12 @@ background: -webkit-linear-gradient(top, #3f4c6b 0%,#3f4c6b 100%); /* Chrome10-2
 background: linear-gradient(to bottom, #3f4c6b 0%,#3f4c6b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f4c6b', endColorstr='#3f4c6b',GradientType=0 ); /* IE6-9 */
 }
+
+
+
+
+
+
+
+
+
