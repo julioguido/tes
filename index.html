@@ -6,13 +6,13 @@
 </head>
 </body>
 <script type="text/javascript" src="/home/rafael/dev/tes/app.js"></script>
-<form action="/my-handling-form-page" method="post">
+<form action="" method="get" onsubmit="return valida(this)">
     <div>
         <label for="name">Nombres:</label>
         <input type="text" id="name" />
     </div>
     <div>
-        <label for="mail">Apellidos:</label>
+        <label for="msg">Apellidos:</label>
         <input type="text" id="apellido" />
     </div>
     <div>
@@ -59,7 +59,7 @@
         <option value="NO">Noruega</option>
     </select>
  </div>
-
+<input type="submit" value="Evaluar"/>
  </form>
 
  </body>
